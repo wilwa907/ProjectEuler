@@ -1,1 +1,2 @@
 # ProjectEuler
+Some practice coding
